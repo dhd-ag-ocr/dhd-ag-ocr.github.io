@@ -2,24 +2,28 @@
 
 Für die lokale Bearbeitung von Dateien in einem GitHub-Repositorium oder das Speichern von Dateien in einem GitHub-Repositorium empfiehlt sich die lokale Bearbeitung der Dateien resp. des gesamten Repositoriums. Dafür ist die nachfolgende Anleitung geschrieben. Es wurde ein »MacBookAir7,2« mit »macOS High Sierra 10.13.6« benutzt.  
 
-	I. Herunterladen der Installationssoftware, eg. unter https://git-scm.com/downloads.
-	II. Alternatively, as it is said on this page: »If you already have Git installed, you can get the latest development version via Git itself:
+01. Herunterladen der Installationssoftware, eg. unter https://git-scm.com/downloads.
+02. Alternatively, as it is said on this page: »If you already have Git installed, you can get the latest development version via Git itself:
 
-	git clone https://github.com/git/git.
+	git clone https://github.com/git/git.«
 
-	« [https://git-scm.com/downloads. Last access 21.06.2019]
+[https://git-scm.com/downloads. Last access 21.06.2019]
 
-01. Nach der Installation zu entsprechendem GitHub-Repositorium – in diesem Fall https://github.com/kba/ag-ocr – und die Pfadangabe wie auf gitHub_InANutshell01.png dargestellt kopieren.
-02. Auf dem Rechner mit graphischer Benutzeroberfläche – Finder, Windows Explorer etc. – oder via Terminal (auch bekannt als BASH, Shell, cli; nachfolgend wird nur noch Ausdruck Terminal benutzt) an beliebiger Stelle ein Verzeichnis – vulgo Ordner – erstellen. Im konkreten Fall wird im Benutzerverzeichnis ein Unterverzeichnis »git« erstellt und dieses nachfolgend als ~/git bezeichnet: »mkdir git«
-03. Mit Terminal in »~/git« gehen: »cd ~/git«
-04. Repositorium in dieses Verzeichnis kopieren: »git clone https://github.com/kba/ak-ocr.git« und
-05. »cd ak-ocr.git«.
+03. Nach der Installation zu entsprechendem GitHub-Repositorium – in diesem Fall https://github.com/kba/ag-ocr – und die Pfadangabe wie auf gitHub_InANutshell01.png dargestellt kopieren.
+04. Auf dem Rechner mit graphischer Benutzeroberfläche – Finder, Windows Explorer etc. – oder via Terminal (auch bekannt als BASH, Shell, cli; nachfolgend wird nur noch Ausdruck Terminal benutzt) an beliebiger Stelle ein Verzeichnis – vulgo Ordner – erstellen. Im konkreten Fall wird im Benutzerverzeichnis ein Unterverzeichnis »git« erstellt und dieses nachfolgend als ~/git bezeichnet: »mkdir git«
+05. Mit Terminal in »~/git« gehen: »cd ~/git«
+06. Repositorium in dieses Verzeichnis kopieren: »git clone https://github.com/kba/ak-ocr.git« und
+07. »cd ak-ocr.git«.
 6. Eine der wichtigen Eigenschaften von GitHub-Repositoria ist die Versionierung der Dateien, ie. es werden alle Änderungen an allen in einem GitHub-Repositorium bearbeiteten Dateien protokolliert und diese können gegebenenfalls rückgängig gemacht werden.
 07. In jedem GitHub-Repositorium gibt es auf der obersten Ebene ein verstecktes Verzeichnis: ».git«. Analog kann auf der obersten Ebene eine ebenfalls versteckte Datei ».gitignore« angelegt werdne, in der Dinge notiert werden, die nicht versioniert werden sollen. Dazu gibt es auf zahlreichen Seiten vorgefertigte ».gitignore«-Dateien, die entsprechend angepaßt werden können.
 08. Sind alle gewünschten Änderungen vorgenommen worden, ie. in Dateien geschrieben, neue Dateien angelegt, Dateien gelöscht etc., sind 
-	08.01. die veränderten Dateien erst zu übernehmen (»git add«),
-	08.02. dann ist die lokale Kopie des GitHub-Repositorii zu aktualisieren (»git commit -m«) und
-	08.03. anschließend ist dieses hochzuladen: »git push«.
+
+	10.1. die veränderten Dateien erst zu übernehmen (»git add«),
+
+	10.2. dann ist die lokale Kopie des GitHub-Repositorii zu aktualisieren (»git commit -m«) und
+
+	10.3. anschließend ist dieses hochzuladen: »git push«.
+
 09. Wenn alle veränderten Dateien übernommen werden sollen: »git add *«, alternativ »git add NAME VERÄNDERTER UND HOCHZULADENDER DATEIEN«.
 10. Aktualisierung lokaler Kopie des GitHub-Repositorii (»git commit -m "Beschreibung der vorgenommenen Änderungen"«)
 11. Übernahme auf externes Git-Repositorum: »git push«
