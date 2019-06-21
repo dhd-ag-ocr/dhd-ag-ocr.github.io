@@ -8,7 +8,7 @@ Für die lokale Bearbeitung von Dateien in einem GitHub-Repositorium oder das Sp
 
 	git clone https://github.com/git/git.«
 
-[https://git-scm.com/downloads. Last access 21.06.2019]
+[[https://git-scm.com/downloads](https://git-scm.com/downloads). Last access 21.06.2019]
 
 03. Nach der Installation zu entsprechendem GitHub-Repositorium – in diesem Fall https://github.com/kba/ag-ocr – und die Pfadangabe wie auf gitHub_InANutshell01.png dargestellt kopieren.
 04. Auf dem Rechner mit graphischer Benutzeroberfläche – Finder, Windows Explorer etc. – oder via Terminal (auch bekannt als BASH, Shell, cli; nachfolgend wird nur noch Ausdruck Terminal benutzt) an beliebiger Stelle ein Verzeichnis – vulgo Ordner – erstellen. Im konkreten Fall wird im Benutzerverzeichnis ein Unterverzeichnis »git« erstellt und dieses nachfolgend als ~/git bezeichnet: »mkdir git«
