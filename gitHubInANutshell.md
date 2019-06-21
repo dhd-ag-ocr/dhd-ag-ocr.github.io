@@ -3,7 +3,8 @@
 Für die lokale Bearbeitung von Dateien in einem GitHub-Repositorium oder das Speichern von Dateien in einem GitHub-Repositorium empfiehlt sich die lokale Bearbeitung der Dateien resp. des gesamten Repositoriums. Dafür ist die nachfolgende Anleitung geschrieben. Es wurde ein »MacBookAir7,2« mit »macOS High Sierra 10.13.6« benutzt.  
 
 01. Herunterladen der Installationssoftware, eg. unter https://git-scm.com/downloads.
-02. Alternatively, as it is said on this page: »If you already have Git installed, you can get the latest development version via Git itself:
+02. Alternatively, as it is said on this page:
+	»If you already have Git installed, you can get the latest development version via Git itself:
 
 	git clone https://github.com/git/git.«
 
