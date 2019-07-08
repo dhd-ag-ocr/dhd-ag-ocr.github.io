@@ -8,10 +8,10 @@ Die Idee für eine AG entstand auf einem OCR-Workshop am 14.06.2019 an der Unive
 
 Ausgehend von dieser breit aufgestellten Basis an Mitgliedern setzt sich die AG folgende Ziele:
 
-* Vernetzung von Nutzern, Vermittlern, Entwicklern und Forschern durch mindestens jährliche Treffen sowie Workshops und gemeinsame Projekte mit dem Fokus auf freier und quelloffener Software bzw. Publikationen zum Thema.
+* Vernetzung von Nutzer\*innen, Vermittler\*innen, Entwickler\*innen und Forscher\*innen durch mindestens jährliche Treffen sowie Workshops und gemeinsame Projekte mit dem Fokus auf freier und quelloffener Software bzw. Publikationen zum Thema.
 * Erarbeitung, Sicherung und Verbreitung von Best Practices zu praktischen Anwendungsfragen der OCR, z. B. Workflow, Formate, Parameter.
 * Technologietransfer aus der Entwicklung in die Praxis.
-* >Klare Kommunikation spezifisch geisteswissenschaftlicher Anforderungen an die Entwickler von OCR-Software, damit diese sich stärker auf die Programmierung von Software für den Produktiveinsatz statt wie bisher vielfach auf die Erstellung von Protoytpen konzentrieren können.
+* Klare Kommunikation spezifisch geisteswissenschaftlicher Anforderungen an die Entwickler\*innen von OCR-Software, damit diese sich stärker auf die Programmierung von Software für den Produktiveinsatz statt wie bisher vielfach auf die Erstellung von Protoytpen konzentrieren können.
 * Alternativ (Vorschlag AB): Vermittlung zwischen spezifisch geisteswissenschaftlichen Anforderungen und technischen Möglichkeiten bei der Entwicklung von OCR-Software.
 * Identifikation und kollaborative Bearbeitung offener Forschungsfragen im engen Austausch mit bereits bestehenden AGs der DHd wie z. B. der „AG Zeitungen & Zeitschriften“.
 
