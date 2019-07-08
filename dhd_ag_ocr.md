@@ -12,6 +12,7 @@ Ausgehend von dieser breit aufgestellten Basis an Mitgliedern setzt sich die AG 
 * Erarbeitung, Sicherung und Verbreitung von Best Practices zu praktischen Anwendungsfragen der OCR, z. B. Workflow, Formate, Parameter.
 * Technologietransfer aus der Entwicklung in die Praxis.
 * <span style="background-color:yellow">Klare Kommunikation spezifisch geisteswissenschaftlicher Anforderungen an die Entwickler von OCR-Software, damit diese sich stärker auf die Programmierung von Software für den Produktiveinsatz statt wie bisher vielfach auf die Erstellung von Protoytpen konzentrieren können.</span>
+* Alternativ (Vorschlag AB): Vermittlung zwischen spezifisch geisteswissenschaftlichen Anforderungen und technischen Möglichkeiten bei der Entwicklung von OCR-Software.
 * Identifikation und kollaborative Bearbeitung offener Forschungsfragen im engen Austausch mit bereits bestehenden AGs der DHd wie z. B. der „AG Zeitungen & Zeitschriften“.
 
 Voraussichtliche Gründungsmitglieder: 
