@@ -26,6 +26,6 @@ Voraussichtliche Gründungsmitglieder:
 * Robert Nasarek (Institut für Geschichte, Martin-Luther-Universität Halle-Wittenberg)
 * Christian Reul (Zentrum für Philologie und Digitalität „Kallimachos”, Universität Würzburg)
 * Dr. Uwe Springmann (Centrum für Informations- und Sprachverarbeitung, LMU München)
-* Dr. Nikolaus Weichselbaumer (Abteilung Buchwissenschaft, Universität Mainz)
 * Maximilian Wehner (Lehrstuhl für Künstliche Intelligenz und Angewandte Informatik, Universität Würzburg)
+* Dr. Nikolaus Weichselbaumer (Abteilung Buchwissenschaft, Universität Mainz)
 * Kay-Michael Würzner (Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden)
