@@ -18,7 +18,7 @@ Ausgehend von dieser breit aufgestellten Basis an Mitgliedern setzt sich die AG 
 Voraussichtliche Gründungsmitglieder: 
 
 * Konstantin Baierer (Staatsbibliothek zu Berlin Preußischer Kulturbesitz, OCR-D)
-* Matthias Bönig (Berlin-Brandenburgische Akademie der Wissenschaften, OCR-D)
+* Matthias Boenig (Berlin-Brandenburgische Akademie der Wissenschaften, OCR-D)
 * Andreas Büttner (Institut für Philosophie, Universität Würzburg)
 * Dr. Vincent Christlein (Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg)
 * Dr. Michael Dahnke (Zentrum für Informations- und Medientechnologie, Universität Siegen)
