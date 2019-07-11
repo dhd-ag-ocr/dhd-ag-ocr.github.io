@@ -1,6 +1,8 @@
-Für die Digitalen Geisteswissenschaften (Digital Humanities, DH) ist die OCR (Optical Character Recognition) von großer Relevanz, da sie es u. a. erlaubt die wichtigste Ressource der DH – Text – effizient zu erschließen und in maschinenverarbeitbarer Form zu präsentieren. Diese Bedeutung zeigte sich auch auf der DHd Jahrestagung 2019, auf der sowohl die beiden angebotenen OCR-Workshops, als auch die Session „Schrift und Zeichen“ großen Zulauf erhielten. Aufgrund der Relevanz für das Feld der DH und dem offenkundigen Interesse innerhalb der deutschsprachigen DH Community, wird hiermit die Einrichtung einer DHd Arbeitsgruppe zum Thema OCR beantragt.
+Die Verwendung von digitalen Textdaten ist ein Kernmerkmal der Digitalen Geisteswissenschaften (Digital Humanities, DH). Der große und wachsende Bedarf nach diesen Daten als Forschungsdaten setzt voraus, dass effiziente Technologien mit einer hohen Erkennung sowohl für den Text als auch für die Dokumentstruktur zur Verfügung stehen. Der Umgang, die Auseinandersetzung und die Entwicklung der OCR (Optical Character Recognition) kann als Schlüssel für die Umsetzung der Forderungen der DH angesehen werden.  
 
-Die Idee für eine AG entstand auf einem OCR-Workshop am 14.06.2019 an der Universitäts- und Landesbibliothek Sachsen-Anhalt in Halle/Saale. Die dortigen Teilnehmer spiegeln die erhoffte heterogene Zusammensetzung der zu gründenden AG hervorragend wieder:
+Sehr bemerkenswert zeigte sich die Bedeutung und das Interesse am Thema OCR auf der DHd Jahrestagung 2019. Die angebotenen OCR-Workshops und die Session „Schrift und Zeichen“ waren sehr nachgefragt. Aufgrund der Relevanz für das Feld der DH und dem offenkundigen Interesse innerhalb der deutschsprachigen DH Community, beantragen wir die Einrichtung einer DHd Arbeitsgruppe zum Thema OCR.
+
+Die Idee für die Grünung der AG entstand auf dem OCR-Workshop am 14.06.2019 an der Universitäts- und Landesbibliothek Sachsen-Anhalt in Halle/Saale. Die Teilnehmer auf diesem Treffen spiegelten eine Vielfalt von Methoden und Technologien hervorragend wider. Dieses Spektrum soll sich in der zu gründenden AG wiederfinden:
 
 * Nutzer, die bewährte, einfach zu bedienende aber dennoch mächtige Tools und Technologien für verschiedenste Zwecke einsetzen wollen.
 * Vermittler (u. a. die Leiter beider OCR Workshops der letzten DHd Jahrestagung), deren Ziel es ist, diese Tools und Technologien den Nutzern in Workshops und anderen Lehrveranstaltungen näher zu bringen.
@@ -15,7 +17,8 @@ Ausgehend von dieser breit aufgestellten Basis an Mitgliedern setzt sich die AG 
 * Alternativ (Vorschlag AB): Vermittlung zwischen spezifisch geisteswissenschaftlichen Anforderungen und technischen Möglichkeiten bei der Entwicklung von OCR-Software.
 * Identifikation und kollaborative Bearbeitung offener Forschungsfragen im engen Austausch mit bereits bestehenden AGs der DHd wie z. B. der „AG Zeitungen & Zeitschriften“.
 
-Voraussichtliche Gründungsmitglieder: 
+
+Gründungsmitglieder: 
 
 * Konstantin Baierer (Staatsbibliothek zu Berlin Preußischer Kulturbesitz, OCR-D)
 * Matthias Boenig (Berlin-Brandenburgische Akademie der Wissenschaften, OCR-D)
