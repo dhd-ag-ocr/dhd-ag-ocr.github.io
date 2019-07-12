@@ -23,6 +23,7 @@ Gründungsmitglieder:
 * Konstantin Baierer (Staatsbibliothek zu Berlin Preußischer Kulturbesitz, OCR-D)
 * Matthias Boenig (Berlin-Brandenburgische Akademie der Wissenschaften, OCR-D)
 * Olaf Brandt (Universitätsbibliothek Tübingen)
+* Daniel Brenn (Universitäts- und Landesbibliothek Sachsen-Anhalt
 * Andreas Büttner (Institut für Philosophie, Universität Würzburg)
 * Dr. Vincent Christlein (Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg)
 * Dr. Michael Dahnke (Zentrum für Informations- und Medientechnologie, Universität Siegen)
