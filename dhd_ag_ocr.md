@@ -26,7 +26,7 @@ Gründungsmitglieder:
 * Andreas Büttner (Institut für Philosophie, Universität Würzburg)
 * Dr. Vincent Christlein (Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg)
 * Dr. Michael Dahnke (Zentrum für Informations- und Medientechnologie, Universität Siegen)
-* Florian Fink (Centrum für Informations- und Sprachverarbeitung, LMU München)
+* Dr. Florian Fink (Centrum für Informations- und Sprachverarbeitung, LMU München)
 * Florian Landes (Bayerische Akademie der Wissenschaften)
 * Dr. Jörg Lehmann (Universität Tübingen, Romanisches Seminar)
 * Robert Nasarek (Institut für Geschichte, Martin-Luther-Universität Halle-Wittenberg)
