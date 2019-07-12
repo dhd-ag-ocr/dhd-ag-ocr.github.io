@@ -2,7 +2,7 @@ Die Verwendung von digitalen Textdaten ist ein Kernmerkmal der Digitalen Geistes
 
 Sehr bemerkenswert zeigte sich die Bedeutung und das Interesse am Thema OCR auf der DHd Jahrestagung 2019. Die angebotenen OCR-Workshops und die Session „Schrift und Zeichen“ waren sehr nachgefragt. Aufgrund der Relevanz für das Feld der DH und dem offenkundigen Interesse innerhalb der deutschsprachigen DH Community, beantragen wir die Einrichtung einer DHd Arbeitsgruppe zum Thema OCR.
 
-Die Idee für die Grünung der AG entstand auf dem OCR-Workshop am 14.06.2019 an der Universitäts- und Landesbibliothek Sachsen-Anhalt in Halle/Saale. Die Teilnehmer auf diesem Treffen spiegelten eine Vielfalt von Methoden und Technologien hervorragend wider. Dieses Spektrum soll sich in der zu gründenden AG wiederfinden:
+Die Idee für die Gründung der AG entstand auf dem OCR-Workshop am 14.06.2019 an der Universitäts- und Landesbibliothek Sachsen-Anhalt in Halle/Saale. Die Teilnehmer auf diesem Treffen spiegelten eine Vielfalt von Methoden und Technologien hervorragend wider. Dieses Spektrum soll sich in der zu gründenden AG wiederfinden:
 
 * Nutzer, die bewährte, einfach zu bedienende aber dennoch mächtige Tools und Technologien für verschiedenste Zwecke einsetzen wollen.
 * Vermittler (u. a. die Leiter beider OCR Workshops der letzten DHd Jahrestagung), deren Ziel es ist, diese Tools und Technologien den Nutzern in Workshops und anderen Lehrveranstaltungen näher zu bringen.
