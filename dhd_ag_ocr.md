@@ -1,4 +1,4 @@
-Die Verwendung von digitalen Textdaten ist ein Kernmerkmal der Digitalen Geisteswissenschaften (Digital Humanities, DH). Der große und wachsende Bedarf nach diesen Daten als Forschungsdaten setzt voraus, dass effiziente Technologien mit einer hohen Erkennung sowohl für den Text als auch für die Dokumentstruktur zur Verfügung stehen. Der Umgang, die Auseinandersetzung und die Entwicklung der OCR (Optical Character Recognition) kann als Schlüssel für die Umsetzung der Forderungen der DH angesehen werden.  
+Die Verwendung von digitalen Textdaten ist ein Kernmerkmal der Digitalen Geisteswissenschaften (Digital Humanities, DH). Der große und wachsende Bedarf nach diesen Daten als Forschungsdaten setzt voraus, dass effiziente Technologien mit einer hohen Erkennungsgenauigkeit sowohl für den Text als auch für die Dokumentstruktur zur Verfügung stehen. Der Umgang, die Auseinandersetzung und die Entwicklung der OCR (Optical Character Recognition) kann als Schlüssel für die Umsetzung der Forderungen der DH angesehen werden.  
 
 Sehr bemerkenswert zeigte sich die Bedeutung und das Interesse am Thema OCR auf der DHd Jahrestagung 2019. Die angebotenen OCR-Workshops und die Session „Schrift und Zeichen“ waren sehr nachgefragt. Aufgrund der Relevanz für das Feld der DH und dem offenkundigen Interesse innerhalb der deutschsprachigen DH Community, beantragen wir die Einrichtung einer DHd Arbeitsgruppe zum Thema OCR.
 
@@ -23,6 +23,7 @@ Gründungsmitglieder:
 * Konstantin Baierer (Staatsbibliothek zu Berlin Preußischer Kulturbesitz, OCR-D)
 * Matthias Boenig (Berlin-Brandenburgische Akademie der Wissenschaften, OCR-D)
 * Olaf Brandt (Universitätsbibliothek Tübingen)
+* Daniel Brenn (Universitäts- und Landesbibliothek Sachsen-Anhalt)
 * Andreas Büttner (Institut für Philosophie, Universität Würzburg)
 * Dr. Vincent Christlein (Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg)
 * Dr. Michael Dahnke (Zentrum für Informations- und Medientechnologie, Universität Siegen)
@@ -30,7 +31,7 @@ Gründungsmitglieder:
 * Florian Landes (Bayerische Akademie der Wissenschaften)
 * Dr. Jörg Lehmann (Universität Tübingen, Romanisches Seminar)
 * Robert Nasarek (Institut für Geschichte, Martin-Luther-Universität Halle-Wittenberg)
-* Christian Reul (Zentrum für Philologie und Digitalität „Kallimachos”, Universität Würzburg)
+* Christian Reul, M.Sc. (Zentrum für Philologie und Digitalität „Kallimachos”, Universität Würzburg)
 * Dr. Uwe Springmann (Centrum für Informations- und Sprachverarbeitung, LMU München)
 * Florian Wagner, M.Sc. (Universität Tübingen) 
 * Maximilian Wehner (Lehrstuhl für Künstliche Intelligenz und Angewandte Informatik, Universität Würzburg)
