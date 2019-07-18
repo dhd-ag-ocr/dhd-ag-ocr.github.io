@@ -14,4 +14,4 @@ Sehen Sie dazu, bitte, den am 12.07.2019 finalisierten <a href="https://github.c
 
 # 4. Mitgliedschaft
 
-Die AG OCR ist auf Wachstum angelegt! Bei Interesse an einer Mitarbeit: Angaben zum eigenen GutHub-Konto an: <a href="mailto:Konstantin.Baierer">Konstantin Baierer</a>.
+Die AG OCR ist auf Wachstum angelegt! Bei Interesse an einer Mitarbeit: Angaben zum eigenen GutHub-Konto an: [Konstantin Baierer](mailto:konstantin.baierer@sbb.spk-berlin.de).
