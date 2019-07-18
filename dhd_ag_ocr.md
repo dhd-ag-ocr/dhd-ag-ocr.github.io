@@ -20,7 +20,7 @@ Ausgehend von dieser breit aufgestellten Basis an Mitgliedern setzt sich die AG 
 
 Gründungsmitglieder: 
 
-* Konstantin Baierer (Staatsbibliothek zu Berlin Preußischer Kulturbesitz, OCR-D)
+* Konstantin Baierer (Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, OCR-D)
 * Matthias Boenig (Berlin-Brandenburgische Akademie der Wissenschaften, OCR-D)
 * Olaf Brandt (Universitätsbibliothek Tübingen)
 * Daniel Brenn (Universitäts- und Landesbibliothek Sachsen-Anhalt)
@@ -31,6 +31,7 @@ Gründungsmitglieder:
 * Florian Landes (Bayerische Akademie der Wissenschaften)
 * Dr. Jörg Lehmann (Universität Tübingen, Romanisches Seminar)
 * Robert Nasarek (Institut für Geschichte, Martin-Luther-Universität Halle-Wittenberg)
+* Clemens Neudecker (Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, OCR-D)
 * Christian Reul, M.Sc. (Zentrum für Philologie und Digitalität „Kallimachos”, Universität Würzburg)
 * Dr. Uwe Springmann (Centrum für Informations- und Sprachverarbeitung, LMU München)
 * Florian Wagner, M.Sc. (Universität Tübingen) 
