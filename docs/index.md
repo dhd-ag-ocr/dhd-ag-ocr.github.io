@@ -51,6 +51,12 @@ AG hervorragend wieder:
      im engen Austausch mit bestehenden bereits bestehenden AGs der DHd wie z.
      B. der „AG Zeitungen & Zeitschriften".
 
+## Minutes
+
+* [Call 2019-06-14](./minutes/2019-06-14-Protokoll)
+* [Call 2019-06-20](./minutes/2019-06-20)
+* [Call 2019-06-21](./minutes/2019-06-21)
+* [Workshop 2019-11-08](./minutes/2019-11-08-halle.md)
 
 ## Contact
 
