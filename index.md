@@ -1,34 +1,27 @@
 # DHd AG OCR
 
-## Optical Character Recognition for Digital Humanities
+Die Verwendung von digitalen Textdaten ist ein Kernmerkmal der Digitalen
+Geisteswissenschaften (Digital Humanities, DH). Der große und wachsende Bedarf
+nach diesen Daten als Forschungsdaten setzt jedoch voraus, dass effiziente
+Technologien mit einer hohen Erkennungsgenauigkeit sowohl für den Text als auch
+für die Dokumentstruktur zur Verfügung stehen.
 
-Für die Digitalen Geisteswissenschaften (Digital Humanities) ist die OCR
-(Optical Character Recognition)  von großer Relevanz, da sie es erlaubt, eine
-der wichtigsten Ressourcen der Digitalen Geisteswissenschaften  -  Text, das
-schließt Kunsthistoriker aus, auch in Lit.-wissenschaften sind Bilder und Noten
-in manchen Kontexten (Minnesang) relevant  -  effizient zu erschließen und in
-maschinenverarbeitbarer Form zu präsentieren. Diese Bedeutung zeigte sich auch
-auf der DHd Jahrestagung 2019, auf der sowohl die beiden angebotenen
-OCR-Workshops, als auch die Session „Schrift und Zeichen" großen Zulauf
-erhielten. Aufgrund der Relevanz für das Feld der DH und dem offenkundigen
-Interesse innerhalb der deutschsprachigen DH Community, wird hiermit die
-Einrichtung einer DHd Arbeitsgruppe zum Thema OCR beantragt.
-
-Die Idee für eine AG entstand auf einem OCR-Workshop am 14.06.2019 an der
-Universitäts- und Landesbibliothek Sachsen-Anhalt in Halle/Saale. Die dortigen
-Teilnehmer spiegeln die erhoffte heterogene Zusammensetzung der zu gründenden
-AG hervorragend wieder:
-
-   * Nutzer, die bewährte, einfach zu bedienende aber dennoch mächtige Tools
-     und Technologien für verschiedenste Zwecke einsetzen wollen.
-   * Vermittler (u. a. die Leiter beider OCR Workshops der letzten DHd
-     Jahrestagung), deren Ziel es ist diese Tools und Technologien den Nutzern
-     in Workshops und anderen Lehrveranstaltungen näher zu bringen.
-   * Entwickler und Forscher (u. a. Vertreter des DFG geförderten
-     Verbundprojekts OCR-D und des Würzburger Zentrums für Philologie und
-     Digitalität „Kallimachos"), die sowohl mit der Optimierung bestehender
-     Software und Technologien wie auch vollkommenen Neuentwicklungen
-     beschäftigt sind.
+Aus diesem Grund sieht sich die AG OCR als interdisziplinäres und
+fächerübergreifendes Forum für den Umgang und die Auseinandersetzung mit sowie
+die Entwicklung von OCR (Optical Character Recognition) als einem Schlüssel für
+die Umsetzung der Forderungen der DH. Indem die Mitglieder der AG die Vielfalt
+der Methoden, Technologien und Nutzungsmöglichkeiten des Forschungsbereiches
+widerspiegeln, soll ein umfassender Kommunikationsraum geschaffen werden, in
+dem sich Entwickler und Forscher versammeln, die sowohl mit der Optimierung
+bestehender Software und Technologien wie auch vollkommenen Neuentwicklungen
+beschäftigt sind, zum anderen Nutzer, die bewährte, einfach zu bedienende aber
+dennoch mächtige Tools und Technologien für verschiedenste Zwecke einsetzen
+wollen. Auch Vermittler, deren Ziel es ist, Tools und Technologien Nutzern in
+Workshops und anderen Lehrveranstaltungen näher zu bringen, nehmen dabei eine
+wichtige Rolle ein. Auf diese Weise soll ein Netzwerk aus Ansprechpartnern für
+den direkten Erfahrungsaustausch mit der OCR von Drucken, Handschriften, ganz
+unterschiedlichen Schrifttypen und Sprachen geschaffen werden. Eigene
+Forschungsprojekte sollen folgen.
 
 ## Goals
 
@@ -46,6 +39,11 @@ AG hervorragend wieder:
    * Identifikation und kollaborative Bearbeitung offener Forschungsfragen auch
      im engen Austausch mit bestehenden bereits bestehenden AGs der DHd wie z.
      B. der „AG Zeitungen & Zeitschriften".
+
+## Links
+
+* Mailing-Liste: https://lists.uni-wuerzburg.de/mailman/listinfo/ag-ocr
+* Chat: https://gitter.im/ag-ocr/community
 
 ## Minutes
 
