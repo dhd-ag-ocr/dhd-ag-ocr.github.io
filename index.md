@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # DHd AG OCR
 
 ## Optical Character Recognition for Digital Humanities
