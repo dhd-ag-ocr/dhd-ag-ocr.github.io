@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>#map_05c04f9b20d743ef96dc2b3725ca26b8 {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>    
+    
+    <div class="folium-map" id="map_05c04f9b20d743ef96dc2b3725ca26b8" ></div>
+</body>
+<script>    
+    
+    
+        var bounds = null;
+    
+
+    var map_05c04f9b20d743ef96dc2b3725ca26b8 = L.map(
+        'map_05c04f9b20d743ef96dc2b3725ca26b8', {
+        center: [50.201963, 10.646023],
+        zoom: 6,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+        });
+
+
+    
+    var tile_layer_fc870836d9b04944a185a90cc2f25335 = L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+        "attribution": null,
+        "detectRetina": false,
+        "maxNativeZoom": 18,
+        "maxZoom": 18,
+        "minZoom": 0,
+        "noWrap": false,
+        "opacity": 1,
+        "subdomains": "abc",
+        "tms": false
+}).addTo(map_05c04f9b20d743ef96dc2b3725ca26b8);
+    
+            var marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd = L.markerClusterGroup({});
+            map_05c04f9b20d743ef96dc2b3725ca26b8.addLayer(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+            
+    
+        var marker_96a778c66829483cbcd686190022334a = L.marker(
+            [52.52437, 13.41053],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_156276d6840249d98f36f9da3d299f1f = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_392a9c83aa3242f9993b64bdb61a74b0 = $(`<div id="html_392a9c83aa3242f9993b64bdb61a74b0" style="width: 100.0%; height: 100.0%;">Name: Konstantin Baierer  Organisation: Staatsbibliothek zu Berlin – Preußischer Kulturbesitz; OCR-D</div>`)[0];
+                popup_156276d6840249d98f36f9da3d299f1f.setContent(html_392a9c83aa3242f9993b64bdb61a74b0);
+            
+
+            marker_96a778c66829483cbcd686190022334a.bindPopup(popup_156276d6840249d98f36f9da3d299f1f)
+            ;
+
+            
+        
+    
+        var marker_f004b317d739467aa75ea7937d4464a0 = L.marker(
+            [52.52437, 13.41053],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_865958b306324884b75172fe03a3a361 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_1f7d7558a1bd4fc0833a0f34341a1d74 = $(`<div id="html_1f7d7558a1bd4fc0833a0f34341a1d74" style="width: 100.0%; height: 100.0%;">Name: Matthias Boenig  Organisation: Berlin-Brandenburgische Akademie der Wissenschaften; OCR-D</div>`)[0];
+                popup_865958b306324884b75172fe03a3a361.setContent(html_1f7d7558a1bd4fc0833a0f34341a1d74);
+            
+
+            marker_f004b317d739467aa75ea7937d4464a0.bindPopup(popup_865958b306324884b75172fe03a3a361)
+            ;
+
+            
+        
+    
+        var marker_f83a16b25a744ef6b86fb8583ea1eb48 = L.marker(
+            [48.52266, 9.05222],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_34b17a643e0147a9acd02e2b1c89d519 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_735db0ab80974c64a0e915df861a69bb = $(`<div id="html_735db0ab80974c64a0e915df861a69bb" style="width: 100.0%; height: 100.0%;">Name: Olaf Brandt  Organisation: Universitätsbibliothek Tübingen</div>`)[0];
+                popup_34b17a643e0147a9acd02e2b1c89d519.setContent(html_735db0ab80974c64a0e915df861a69bb);
+            
+
+            marker_f83a16b25a744ef6b86fb8583ea1eb48.bindPopup(popup_34b17a643e0147a9acd02e2b1c89d519)
+            ;
+
+            
+        
+    
+        var marker_59d51344cb274a96aff84cd75d793a36 = L.marker(
+            [51.48158, 11.97947],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_70aa8b39b9a14c04aa9800089c6c9eed = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_3b8807d0f30f40cc8f5168ead355bc09 = $(`<div id="html_3b8807d0f30f40cc8f5168ead355bc09" style="width: 100.0%; height: 100.0%;">Name: Daniel Brenn  Organisation: Universitäts- und Landesbibliothek Sachsen-Anhalt</div>`)[0];
+                popup_70aa8b39b9a14c04aa9800089c6c9eed.setContent(html_3b8807d0f30f40cc8f5168ead355bc09);
+            
+
+            marker_59d51344cb274a96aff84cd75d793a36.bindPopup(popup_70aa8b39b9a14c04aa9800089c6c9eed)
+            ;
+
+            
+        
+    
+        var marker_c1517efbea004e30a27feec1934605ed = L.marker(
+            [49.79391, 9.95121],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_0395b61a4c1f46858b141f8614e9a381 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_0d7821f4c6854f77a0a42a3478d0ebf9 = $(`<div id="html_0d7821f4c6854f77a0a42a3478d0ebf9" style="width: 100.0%; height: 100.0%;">Name: Andreas Büttner  Organisation: Institut für Philosophie, Universität Würzburg</div>`)[0];
+                popup_0395b61a4c1f46858b141f8614e9a381.setContent(html_0d7821f4c6854f77a0a42a3478d0ebf9);
+            
+
+            marker_c1517efbea004e30a27feec1934605ed.bindPopup(popup_0395b61a4c1f46858b141f8614e9a381)
+            ;
+
+            
+        
+    
+        var marker_c2a310c5c341410a8785b991ff0942fc = L.marker(
+            [50.87481, 8.02431],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_cb67a2365d144a61953cd718410aeeb1 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_e94a4e30321340ef9a8f6e578e5279b8 = $(`<div id="html_e94a4e30321340ef9a8f6e578e5279b8" style="width: 100.0%; height: 100.0%;">Name: Dr. Vincent Christlein  Organisation: Zentrum für Informations- und Medientechnologie, Universität Siegen</div>`)[0];
+                popup_cb67a2365d144a61953cd718410aeeb1.setContent(html_e94a4e30321340ef9a8f6e578e5279b8);
+            
+
+            marker_c2a310c5c341410a8785b991ff0942fc.bindPopup(popup_cb67a2365d144a61953cd718410aeeb1)
+            ;
+
+            
+        
+    
+        var marker_6e9b104575e14d67bdc36784310b6e8e = L.marker(
+            [48.13743, 11.57549],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_cf89740968b84a46a28ff7257fd7a5ba = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_58f9eb12364a4026a1528ee20aded2c7 = $(`<div id="html_58f9eb12364a4026a1528ee20aded2c7" style="width: 100.0%; height: 100.0%;">Name: Dr. Florian Fink  Organisation: Centrum für Informations- und Sprachverarbeitung, LMU München</div>`)[0];
+                popup_cf89740968b84a46a28ff7257fd7a5ba.setContent(html_58f9eb12364a4026a1528ee20aded2c7);
+            
+
+            marker_6e9b104575e14d67bdc36784310b6e8e.bindPopup(popup_cf89740968b84a46a28ff7257fd7a5ba)
+            ;
+
+            
+        
+    
+        var marker_33ddf86e823b42c5972054b199284b3a = L.marker(
+            [48.13743, 11.57549],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_3cc1e7a1a0924646af6a25bb09f7d4f3 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_52effaf238d04443ba4ac3e3505ba0a7 = $(`<div id="html_52effaf238d04443ba4ac3e3505ba0a7" style="width: 100.0%; height: 100.0%;">Name: Florian Landes  Organisation: Bayerische Akademie der Wissenschaften</div>`)[0];
+                popup_3cc1e7a1a0924646af6a25bb09f7d4f3.setContent(html_52effaf238d04443ba4ac3e3505ba0a7);
+            
+
+            marker_33ddf86e823b42c5972054b199284b3a.bindPopup(popup_3cc1e7a1a0924646af6a25bb09f7d4f3)
+            ;
+
+            
+        
+    
+        var marker_c93c727907024474813b8ee4ed319fcb = L.marker(
+            [48.52266, 9.05222],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_8c425dd59c624aa6b261f3aa0f08a2db = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_f594720db205444390ef6868210183a1 = $(`<div id="html_f594720db205444390ef6868210183a1" style="width: 100.0%; height: 100.0%;">Name: Dr. Jörg Lehmann  Organisation: Romanisches Seminar, Universität Tübingen</div>`)[0];
+                popup_8c425dd59c624aa6b261f3aa0f08a2db.setContent(html_f594720db205444390ef6868210183a1);
+            
+
+            marker_c93c727907024474813b8ee4ed319fcb.bindPopup(popup_8c425dd59c624aa6b261f3aa0f08a2db)
+            ;
+
+            
+        
+    
+        var marker_0ad15e8aaa684bec97ef993871297da5 = L.marker(
+            [51.48158, 11.97947],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_b7b69b1e989b40dba6507201e0d616ac = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_a4da342ab10245229f471cc7a108a3c1 = $(`<div id="html_a4da342ab10245229f471cc7a108a3c1" style="width: 100.0%; height: 100.0%;">Name: Robert Nasarek  Organisation: Institut für Geschichte, Martin-Luther-Universität Halle-Wittenberg</div>`)[0];
+                popup_b7b69b1e989b40dba6507201e0d616ac.setContent(html_a4da342ab10245229f471cc7a108a3c1);
+            
+
+            marker_0ad15e8aaa684bec97ef993871297da5.bindPopup(popup_b7b69b1e989b40dba6507201e0d616ac)
+            ;
+
+            
+        
+    
+        var marker_a148e80256fe42b2b5723c2367603571 = L.marker(
+            [52.52437, 13.41053],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_84ba2079bb31422ab53ab0b4031a98f2 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_2c1f68bd891c45bdbbb7ea9055cf70d4 = $(`<div id="html_2c1f68bd891c45bdbbb7ea9055cf70d4" style="width: 100.0%; height: 100.0%;">Name: Clemens Neudecker  Organisation: Staatsbibliothek zu Berlin – Preußischer Kulturbesitz; OCR-D</div>`)[0];
+                popup_84ba2079bb31422ab53ab0b4031a98f2.setContent(html_2c1f68bd891c45bdbbb7ea9055cf70d4);
+            
+
+            marker_a148e80256fe42b2b5723c2367603571.bindPopup(popup_84ba2079bb31422ab53ab0b4031a98f2)
+            ;
+
+            
+        
+    
+        var marker_eee432c6759b4028bda031ef97214949 = L.marker(
+            [49.79391, 9.95121],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_7a9df311e9d54adf99145c13d15f10cc = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_35a3ed2d37e14b5c8da383a5086772b8 = $(`<div id="html_35a3ed2d37e14b5c8da383a5086772b8" style="width: 100.0%; height: 100.0%;">Name: Christian Reul  Organisation: Zentrum für Philologie und Digitalität „Kallimachos”, Universität Würzburg</div>`)[0];
+                popup_7a9df311e9d54adf99145c13d15f10cc.setContent(html_35a3ed2d37e14b5c8da383a5086772b8);
+            
+
+            marker_eee432c6759b4028bda031ef97214949.bindPopup(popup_7a9df311e9d54adf99145c13d15f10cc)
+            ;
+
+            
+        
+    
+        var marker_9a9637c543564cc98a0313cfa80de6fa = L.marker(
+            [48.13743, 11.57549],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_3a5b572b69f3432bb95bb1fa1e4abd69 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_759669f9fd694d29817046c952589d7d = $(`<div id="html_759669f9fd694d29817046c952589d7d" style="width: 100.0%; height: 100.0%;">Name: Dr. Uwe Springmann  Organisation: Centrum für Informations- und Sprachverarbeitung, LMU München</div>`)[0];
+                popup_3a5b572b69f3432bb95bb1fa1e4abd69.setContent(html_759669f9fd694d29817046c952589d7d);
+            
+
+            marker_9a9637c543564cc98a0313cfa80de6fa.bindPopup(popup_3a5b572b69f3432bb95bb1fa1e4abd69)
+            ;
+
+            
+        
+    
+        var marker_46b134b092064a149ff176ce06660864 = L.marker(
+            [48.52266, 9.05222],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_62eb6d3c8dc04e5081935cb8424df7f1 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_a5c2a8eecb884d959fde0c6afb7331a7 = $(`<div id="html_a5c2a8eecb884d959fde0c6afb7331a7" style="width: 100.0%; height: 100.0%;">Name: Florian Wagner  Organisation: Universitaetsbibliothek Tuebingen</div>`)[0];
+                popup_62eb6d3c8dc04e5081935cb8424df7f1.setContent(html_a5c2a8eecb884d959fde0c6afb7331a7);
+            
+
+            marker_46b134b092064a149ff176ce06660864.bindPopup(popup_62eb6d3c8dc04e5081935cb8424df7f1)
+            ;
+
+            
+        
+    
+        var marker_10840ad80a8a4516bba082e98fc83dd5 = L.marker(
+            [49.79391, 9.95121],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_bf7aa3725a8641d7bcb586e8670e515d = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_0af63f382b994d8cb0c16308ceb31546 = $(`<div id="html_0af63f382b994d8cb0c16308ceb31546" style="width: 100.0%; height: 100.0%;">Name: Maximilian Wehner  Organisation: Zentrum für Philologie und Digitalität „Kallimachos”, Universität Würzburg</div>`)[0];
+                popup_bf7aa3725a8641d7bcb586e8670e515d.setContent(html_0af63f382b994d8cb0c16308ceb31546);
+            
+
+            marker_10840ad80a8a4516bba082e98fc83dd5.bindPopup(popup_bf7aa3725a8641d7bcb586e8670e515d)
+            ;
+
+            
+        
+    
+        var marker_4942bb4b027e4795b15e7b5688668068 = L.marker(
+            [49.98419, 8.2791],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_6335a3b19b9242ccab60e8504a681319 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_e136dd2f097448f3b1b40cf5a31cbe52 = $(`<div id="html_e136dd2f097448f3b1b40cf5a31cbe52" style="width: 100.0%; height: 100.0%;">Name: Dr. Nikolaus Weichselbaumer  Organisation: Gutenberg-Institut, Universität Mainz</div>`)[0];
+                popup_6335a3b19b9242ccab60e8504a681319.setContent(html_e136dd2f097448f3b1b40cf5a31cbe52);
+            
+
+            marker_4942bb4b027e4795b15e7b5688668068.bindPopup(popup_6335a3b19b9242ccab60e8504a681319)
+            ;
+
+            
+        
+    
+        var marker_cb04971d21ca4905b4cf38374305afcd = L.marker(
+            [51.05089, 13.73832],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_6be9591c0fca44888c4431019a52af31 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_398daca2e2ba4d149144c1481ba0d94e = $(`<div id="html_398daca2e2ba4d149144c1481ba0d94e" style="width: 100.0%; height: 100.0%;">Name: Kay-Michael Würzner  Organisation: Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden</div>`)[0];
+                popup_6be9591c0fca44888c4431019a52af31.setContent(html_398daca2e2ba4d149144c1481ba0d94e);
+            
+
+            marker_cb04971d21ca4905b4cf38374305afcd.bindPopup(popup_6be9591c0fca44888c4431019a52af31)
+            ;
+
+            
+        
+    
+        var marker_fceddab661e9454bb6c9f4dfee849cec = L.marker(
+            [52.16442, 10.54095],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_722406a378d04734bc3b99e0641955c2 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_a98ef7a28af74dadbd9c193e33a4fe44 = $(`<div id="html_a98ef7a28af74dadbd9c193e33a4fe44" style="width: 100.0%; height: 100.0%;">Name: Elisabeth Engl  Organisation: Herzog August Bibliothek Wolfenbüttel</div>`)[0];
+                popup_722406a378d04734bc3b99e0641955c2.setContent(html_a98ef7a28af74dadbd9c193e33a4fe44);
+            
+
+            marker_fceddab661e9454bb6c9f4dfee849cec.bindPopup(popup_722406a378d04734bc3b99e0641955c2)
+            ;
+
+            
+        
+    
+        var marker_e7a2d979bbab49ec946f59f6b8c747eb = L.marker(
+            [53.07516, 8.80777],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_29964aeb510e4ae9833ed1d32942caf4 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_be943da13d9747d09d3f5f397cc77f43 = $(`<div id="html_be943da13d9747d09d3f5f397cc77f43" style="width: 100.0%; height: 100.0%;">Name: Dr. Manfred Nölte  Organisation: Staats- und Universitätsbibliothek Bremen</div>`)[0];
+                popup_29964aeb510e4ae9833ed1d32942caf4.setContent(html_be943da13d9747d09d3f5f397cc77f43);
+            
+
+            marker_e7a2d979bbab49ec946f59f6b8c747eb.bindPopup(popup_29964aeb510e4ae9833ed1d32942caf4)
+            ;
+
+            
+        
+    
+        var marker_58f7f35a76844828a0959720eb36fcfb = L.marker(
+            [50.87894, 7.12292],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_9b1b3517b07448b3b9c443039a537bf0 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_ed088bdbed294c4ab7399dbd6afa8010 = $(`<div id="html_ed088bdbed294c4ab7399dbd6afa8010" style="width: 100.0%; height: 100.0%;">Name: Stefanie Läpke  Organisation: Universitäts- und Landesbibliothek Bonn</div>`)[0];
+                popup_9b1b3517b07448b3b9c443039a537bf0.setContent(html_ed088bdbed294c4ab7399dbd6afa8010);
+            
+
+            marker_58f7f35a76844828a0959720eb36fcfb.bindPopup(popup_9b1b3517b07448b3b9c443039a537bf0)
+            ;
+
+            
+        
+    
+        var marker_dc001f3a96904871b0766dabfc27952f = L.marker(
+            [50.11552, 8.68417],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_594c44fea61a47fc8b29d6212d0643e1 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_65778ace6fbe49658ab1a49a938e98ad = $(`<div id="html_65778ace6fbe49658ab1a49a938e98ad" style="width: 100.0%; height: 100.0%;">Name: Dr. Andreas Wagner  Organisation: Max-Planck-Institut für europäische Rechtsgeschichte Frankfurt am Main</div>`)[0];
+                popup_594c44fea61a47fc8b29d6212d0643e1.setContent(html_65778ace6fbe49658ab1a49a938e98ad);
+            
+
+            marker_dc001f3a96904871b0766dabfc27952f.bindPopup(popup_594c44fea61a47fc8b29d6212d0643e1)
+            ;
+
+            
+        
+    
+        var marker_18ac445762d444b3996bc460d6ff0bad = L.marker(
+            [47.36667, 8.55],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_b93a407c081e43dba1f9fa0d1867e348 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_9c7c9fddfdf9491fb47d6df172259268 = $(`<div id="html_9c7c9fddfdf9491fb47d6df172259268" style="width: 100.0%; height: 100.0%;">Name: Christine Grundig  Organisation: unsthistorisches Institut, Universität Zürich</div>`)[0];
+                popup_b93a407c081e43dba1f9fa0d1867e348.setContent(html_9c7c9fddfdf9491fb47d6df172259268);
+            
+
+            marker_18ac445762d444b3996bc460d6ff0bad.bindPopup(popup_b93a407c081e43dba1f9fa0d1867e348)
+            ;
+
+            
+        
+    
+        var marker_8a348597cb8f435ab3e82089995bc00e = L.marker(
+            [49.79391, 9.95121],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_cf50524b938e419781f409a9fe7281f8 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_1be30f0e27644289b00d503e42f072af = $(`<div id="html_1be30f0e27644289b00d503e42f072af" style="width: 100.0%; height: 100.0%;">Name: Nico Balbach  Organisation: Lehrstuhl für Künstliche Intelligenz und Angewandte Informatik, Universität Würzburg</div>`)[0];
+                popup_cf50524b938e419781f409a9fe7281f8.setContent(html_1be30f0e27644289b00d503e42f072af);
+            
+
+            marker_8a348597cb8f435ab3e82089995bc00e.bindPopup(popup_cf50524b938e419781f409a9fe7281f8)
+            ;
+
+            
+        
+    
+        var marker_707c308e91f64de1b06d18a60fa07fbe = L.marker(
+            [49.79391, 9.95121],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_085cf4ab40f94afc9ff9146581757699 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_019ac12547fe4081a8aebeec92e170b2 = $(`<div id="html_019ac12547fe4081a8aebeec92e170b2" style="width: 100.0%; height: 100.0%;">Name: Yannik Herbst  Organisation: Zentrum für Philologie und Digitalität „Kallimachos”, Universität Würzburg</div>`)[0];
+                popup_085cf4ab40f94afc9ff9146581757699.setContent(html_019ac12547fe4081a8aebeec92e170b2);
+            
+
+            marker_707c308e91f64de1b06d18a60fa07fbe.bindPopup(popup_085cf4ab40f94afc9ff9146581757699)
+            ;
+
+            
+        
+    
+        var marker_3e0b36b3d2dc40f5a85c9bc17c0cf887 = L.marker(
+            [49.79391, 9.95121],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_a34bcd997d7b45eaac4645e045a777cf = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_2ec19332fe844a788c3c245dc1b08e42 = $(`<div id="html_2ec19332fe844a788c3c245dc1b08e42" style="width: 100.0%; height: 100.0%;">Name: Florian Langhanki  Organisation: Kolleg Mittelalter und Frühe Neuzeit, Universität Würzburg</div>`)[0];
+                popup_a34bcd997d7b45eaac4645e045a777cf.setContent(html_2ec19332fe844a788c3c245dc1b08e42);
+            
+
+            marker_3e0b36b3d2dc40f5a85c9bc17c0cf887.bindPopup(popup_a34bcd997d7b45eaac4645e045a777cf)
+            ;
+
+            
+        
+    
+        var marker_0776dcabd5c444c0b83a1424a9932349 = L.marker(
+            [49.79391, 9.95121],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_f7ad4e20597c46078960583243517cbf = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_07250f9556414e54bdada571ef4893e2 = $(`<div id="html_07250f9556414e54bdada571ef4893e2" style="width: 100.0%; height: 100.0%;">Name: Kevin Chadbourne  Organisation: Lehrstuhl für Künstliche Intelligenz und Angewandte Informatik, Universität Würzburg</div>`)[0];
+                popup_f7ad4e20597c46078960583243517cbf.setContent(html_07250f9556414e54bdada571ef4893e2);
+            
+
+            marker_0776dcabd5c444c0b83a1424a9932349.bindPopup(popup_f7ad4e20597c46078960583243517cbf)
+            ;
+
+            
+        
+    
+        var marker_9e393029ef1249b5aa71c7a27437860d = L.marker(
+            [49.79391, 9.95121],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_02a915181bea41fbb8c7adb1aaad690c = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_b247f317f0f34aaf844c6b1e22ce860c = $(`<div id="html_b247f317f0f34aaf844c6b1e22ce860c" style="width: 100.0%; height: 100.0%;">Name: Erica Passoni  Organisation: Kolleg Mittelalter und Frühe Neuzeit, Universität Würzburg</div>`)[0];
+                popup_02a915181bea41fbb8c7adb1aaad690c.setContent(html_b247f317f0f34aaf844c6b1e22ce860c);
+            
+
+            marker_9e393029ef1249b5aa71c7a27437860d.bindPopup(popup_02a915181bea41fbb8c7adb1aaad690c)
+            ;
+
+            
+        
+    
+        var marker_5e3a682d0e6546988d562cee2bbdfeda = L.marker(
+            [52.52437, 13.41053],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_f8f50c9f0b6a442ead5326d4528b410a = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_375b89282456478985d41e0f9115b9a3 = $(`<div id="html_375b89282456478985d41e0f9115b9a3" style="width: 100.0%; height: 100.0%;">Name: Sebastian Göttel  Organisation: Digitales Wörterbuch der deutschen Sprache, BBAW</div>`)[0];
+                popup_f8f50c9f0b6a442ead5326d4528b410a.setContent(html_375b89282456478985d41e0f9115b9a3);
+            
+
+            marker_5e3a682d0e6546988d562cee2bbdfeda.bindPopup(popup_f8f50c9f0b6a442ead5326d4528b410a)
+            ;
+
+            
+        
+    
+        var marker_bb6f8c6a8bdb49fc9ef6df8b0d10222d = L.marker(
+            [49.79391, 9.95121],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_2362d1722cc344b7be35a64c7b3dc2e4 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_fed3261f46d64dd9907f27b9bd20d5e3 = $(`<div id="html_fed3261f46d64dd9907f27b9bd20d5e3" style="width: 100.0%; height: 100.0%;">Name: Dominika Heublein  Organisation: Lehrstuhl für deutsche Philologie (ältere Abteilung), Universität Würzburg</div>`)[0];
+                popup_2362d1722cc344b7be35a64c7b3dc2e4.setContent(html_fed3261f46d64dd9907f27b9bd20d5e3);
+            
+
+            marker_bb6f8c6a8bdb49fc9ef6df8b0d10222d.bindPopup(popup_2362d1722cc344b7be35a64c7b3dc2e4)
+            ;
+
+            
+        
+    
+        var marker_316938c72dc5421db13edcd4a1a43f25 = L.marker(
+            [49.79391, 9.95121],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_615144c7f8b94e1b845bd649ae424416 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_a38fd199318a404882f1835aec038e36 = $(`<div id="html_a38fd199318a404882f1835aec038e36" style="width: 100.0%; height: 100.0%;">Name: Alexander Gehrke  Organisation: Lehrstuhl für Künstliche Intelligenz und Angewandte Informatik, Universität Würzburg</div>`)[0];
+                popup_615144c7f8b94e1b845bd649ae424416.setContent(html_a38fd199318a404882f1835aec038e36);
+            
+
+            marker_316938c72dc5421db13edcd4a1a43f25.bindPopup(popup_615144c7f8b94e1b845bd649ae424416)
+            ;
+
+            
+        
+    
+        var marker_f3d74ef420ab430cac74ae6ff88ae96f = L.marker(
+            [49.59099, 11.00783],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_3afb7175e3e94d688521beb50528e942 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_7e728423e66548c2856de4df98d707f2 = $(`<div id="html_7e728423e66548c2856de4df98d707f2" style="width: 100.0%; height: 100.0%;">Name: Martin Scholz  Organisation: Universitätsbibliothek der FAU Erlangen-Nürnber</div>`)[0];
+                popup_3afb7175e3e94d688521beb50528e942.setContent(html_7e728423e66548c2856de4df98d707f2);
+            
+
+            marker_f3d74ef420ab430cac74ae6ff88ae96f.bindPopup(popup_3afb7175e3e94d688521beb50528e942)
+            ;
+
+            
+        
+    
+        var marker_f232edf1885e4674b75c95374801c255 = L.marker(
+            [51.33962, 12.37129],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(marker_cluster_056abfcbc6a047f9a9fbd8e2cf19acfd);
+        
+    
+            var popup_b52c33fc369d4e1ebb9c26fdad640c1f = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_8abb1e962801422ba38dfb167d189a56 = $(`<div id="html_8abb1e962801422ba38dfb167d189a56" style="width: 100.0%; height: 100.0%;">Name: Robert Sachunsky  Organisation: Abteilung Automatische Sprachverarbeitung, Universität Leipzig</div>`)[0];
+                popup_b52c33fc369d4e1ebb9c26fdad640c1f.setContent(html_8abb1e962801422ba38dfb167d189a56);
+            
+
+            marker_f232edf1885e4674b75c95374801c255.bindPopup(popup_b52c33fc369d4e1ebb9c26fdad640c1f)
+            ;
+
+            
+        
+</script>
