@@ -14,7 +14,7 @@ Tel: +49 621 181–2754
 E-Mail: [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
 
 ### Co-Convenor
-**Corwin Schnell**
+**Corwin Schnell**  
 Universitätsbibliothek Tübingen   
 Wilhelmstr. 32  
 D-72074 Tübingen  
