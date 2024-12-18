@@ -1,6 +1,8 @@
+@import "{{ site.theme }}";
+
 ---
 layout: default
-description: Startseite
+
 ---
 
 # DHd AG OCR
