@@ -1,3 +1,8 @@
+---
+layout: default
+description: Startseite
+---
+
 # DHd AG OCR
 **Arbeitsgruppe OCR - Forum für die Weiterentwicklung der Optical Character Recognition**
 
