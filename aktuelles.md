@@ -16,7 +16,7 @@ DHd Bielefeld (3. bis 7. März)
 **Themen**:  
 - Ground-Truth-Richtlinien zur Layouterkennung
 - Vorträge zu versch. OCR-Projekten:
-  - PD Dr. Christian Reul: Digitalisierung und Erschließung historischer Schulbücher mit Schwerpunkt religiöse Bildung – zwischen Masse und gezielten manuellen Eingriffen
+  - PD Dr. Christian Reul: Digitalisierung und Erschließung historischer Schulbücher mit Schwerpunkt religiöse Bildung – zwischen Masse und gezielten manuellen Eingriffen ([Folien](2024-11-27_reul-schulbuecher.pdf))
   - Ole Meiners: More data - more problems? Die vielfältigen Herausforderungen für automatisierte Texterkennung auf Dokumenten (nicht nur) des Herder-Instituts
   - Stefan von der Heide: Automatische OCR-Korrektur mit LLMs – eine Evaluierung
   - Prof. Dr. Achim Rabus: Möglichkeiten und Grenzen ‚smarter‘ HTR für unterschiedliche Sprachen und Schriftsysteme
