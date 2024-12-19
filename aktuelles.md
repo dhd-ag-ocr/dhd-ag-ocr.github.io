@@ -7,6 +7,7 @@ DHd Bielefeld (3. bis 7. März)
   - Larissa Will, Jan Kamlah, Thomas Schmidt, Sarah Lang, Dorothee Huff: eScriptorium meets LLMs: Moderne KI-Systeme im Kontext der Volltexterschließung
 - **Termin tbd**
   - Arbeitstreffen auf der DHd
+
 ---
 
 ### Archiv

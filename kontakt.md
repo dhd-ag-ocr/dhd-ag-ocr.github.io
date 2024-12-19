@@ -1,10 +1,10 @@
 ## Kontakt
 
-### [Chat – für den alltäglichen Austausch](https://gitter.im/ag-ocr/community)
+#### [Chat – für den alltäglichen Austausch](https://gitter.im/ag-ocr/community)
 
-### [Mailing-Liste – für Ankündigungen](https://lists.uni-wuerzburg.de/mailman/listinfo/ag-ocr)
+#### [Mailing-Liste – für Ankündigungen](https://lists.uni-wuerzburg.de/mailman/listinfo/ag-ocr)
 
-### Convenorin
+#### Convenorin
 **Larissa Will**  
 Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanities)  
 Universitätsbibliothek Mannheim  
@@ -13,7 +13,7 @@ D-68131 Mannheim
 Tel: +49 621 181–2754  
 E-Mail: [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
 
-### Co-Convenor
+#### Co-Convenor
 **Corwin Schnell**  
 Universitätsbibliothek Tübingen   
 Wilhelmstr. 32  
