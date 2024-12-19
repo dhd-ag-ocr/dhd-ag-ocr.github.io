@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -13,7 +12,7 @@
     {% endif %}
     <meta charset="UTF-8">
 
-{% seo %}
+    {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,11 +24,11 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">DHd AG OCR</h1>
-      <h2 class="project-tagline">Arbeitsgruppe OCR - Forum für die Weiterentwicklung der Optical Character Recognition</h2>
-        <a href="/home.md" class="btn">Home</a>
-        <a href="/aktuelles.md" class="btn">Aktuelles</a>
-        <a href="/mitglieder.md" class="btn">Mitglieder & Vertretene Institutionen</a>
-        <a href="/kontakt.md" class="btn">Kontakt</a>
+      <h2 class="project-tagline">{{ site.tagline }}</h2>
+        <a href="/index" class="btn">Home</a>
+        <a href="/aktuelles" class="btn">Aktuelles</a>
+        <a href="/mitglieder" class="btn">Mitglieder & Vertretene Institutionen</a>
+        <a href="/kontakt" class="btn">Kontakt</a>
     </header>
 
     <main id="content" class="main-content" role="main">
