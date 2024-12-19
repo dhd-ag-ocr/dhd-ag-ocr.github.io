@@ -1,9 +1,3 @@
-@import "{{ site.theme }}";
-
----
-layout: default
-
----
 
 # DHd AG OCR
 **Arbeitsgruppe OCR - Forum für die Weiterentwicklung der Optical Character Recognition**
