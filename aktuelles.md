@@ -1,17 +1,25 @@
 ## Aktuelles
 
 ### Ankündigungen
-- **Präsenzworkshop am 27. und 28. November 2024 in Mannheim**
-  - **Themen**:
-    - 1. Tag: Update/Aktueller Stand zu Vorträgen aus Juni-Workshop
-    - 2. Tag: Nachnutzbarkeit von Ground Truth-Daten
-  - [Verbindliche Anmeldung bis zum 1. November](https://terminplaner6.dfn.de/b/b9880401688ec90819931db6a64cd30a-827916)!
-  - Das genaue Programm folgt im Oktober/November.
-  - Fragen gerne an: [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
 
+DHd Bielefeld (3. bis 7. März)
+- **Workshop am Montag, 7.03.2025, 14.30-17.30 Uhr**
+  - Larissa Will, Jan Kamlah, Thomas Schmidt, Sarah Lang, Dorothee Huff: eScriptorium meets LLMs: Moderne KI-Systeme im Kontext der Volltexterschließung
+- **Termin tbd**
+  - Arbeitstreffen auf der DHd
 ---
 
 ### Archiv
+
+#### Präsenzworkshop am 27. und 28. November 2024 in Mannheim  
+**Themen**:  
+- Ground-Truth-Richtlinien zur Layouterkennung
+- Vorträge zu versch. OCR-Projekten:
+  - PD Dr. Christian Reul: Digitalisierung und Erschließung historischer Schulbücher mit Schwerpunkt religiöse Bildung – zwischen Masse und gezielten manuellen Eingriffen
+  - Ole Meiners: More data - more problems? Die vielfältigen Herausforderungen für automatisierte Texterkennung auf Dokumenten (nicht nur) des Herder-Instituts
+  - Stefan von der Heide: Automatische OCR-Korrektur mit LLMs – eine Evaluierung
+  - Prof. Dr. Achim Rabus: Möglichkeiten und Grenzen ‚smarter‘ HTR für unterschiedliche Sprachen und Schriftsysteme
+  - Mehmed Mustafa & Konstantin Baierer: Operandi and ocrd-k8s – Scaling Up OCR-D workflows
 
 #### AG-Workshop am 26. Juni 2024
 - **Thema**: Verschiedene Projekte von Forschenden und Institutionen mit Feedback von OCR-Expert*innen.
