@@ -1,5 +1,6 @@
 # Mitglieder & Vetretene Institutionen
 
+- Christoph Bartmann, Universitäts- und Stadtbibliothek Köln
 - Dr. Vincent Christlein, Pattern Recognition Lab / Computer Science 5, Friedrich-Alexander-Universität Erlangen-Nürnberg
 - Stefan von der Heide, CCS Content Conversion Specialists GmbH, Hamburg
 - Ole Meiners, Herder-Institut für historische Ostmitteleuropaforschung, Marburg
