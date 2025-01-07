@@ -28,7 +28,7 @@ DHd Bielefeld (3. bis 7. März)
   - Ole Meiners: Die vielfältigen Herausforderungen für automatisierte Texterkennung auf Dokumenten des Herder-Instituts ([Folien](slides/2024-06-26_Meiners_PUB.pdf))
   - Dr. Esther-Maria Lemmerz: Volltexterkennung der Akten der Reichskanzlei: Erste Schritte zu einem eigenen Modell
   - Constantin Lehenmeyer: Computergestützte Erschließung und Aufbereitung historischer Wetterdaten
-  - Dr. Christian Reul: Digitalisierung und Erschließung historischer Schulbücher mit Schwerpunkt religiöse Bildung - zwischen Masse und gezielten manuellen Eingriffen ([Folien](2024-06-26_reul-schulbuecher.pdf))
+  - Dr. Christian Reul: Digitalisierung und Erschließung historischer Schulbücher mit Schwerpunkt religiöse Bildung - zwischen Masse und gezielten manuellen Eingriffen ([Folien](slides/2024-06-26_reul-schulbuecher.pdf))
   - Arsenije Bogdanović: Segmentierung und Semantic Labeling von Paratexten für Werkausgaben des 18. Jh.s ([Folien](2024-06-26_OCR-AG-Workshop_ArsenijeBogdanovic.pdf))
   - Dr. Vincent Christlein: Document Analysis and Recognition Activities of the PRL ([Folien](https://docs.google.com/presentation/d/1OD0_-dbBCGtmzaUN5SyFNWUgEpoFBweRzmDHHBTpYgI/edit?usp=sharing))
 
