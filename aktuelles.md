@@ -2,15 +2,17 @@
 
 ### Ankündigungen
 
-DHd Bielefeld (3. bis 7. März)
-- **Workshop am Montag, 7.03.2025, 14.30-17.30 Uhr**
-  - Larissa Will, Jan Kamlah, Thomas Schmidt, Sarah Lang, Dorothee Huff: eScriptorium meets LLMs: Moderne KI-Systeme im Kontext der Volltexterschließung
-- **Termin tbd**
-  - Arbeitstreffen auf der DHd
-
+- nächstes Online-Treffen in Planung
 ---
 
 ### Archiv
+
+
+#### Aktivitäten der OCR-AG bei DHd 2025 in Bielefeld (03.03. - 07.03.2025)
+- **Workshop am Montag, 7.03.2025, 14.30-17.30 Uhr**
+  - Larissa Will, Jan Kamlah, Thomas Schmidt, Sarah Lang, Dorothee Huff: eScriptorium meets LLMs: Moderne KI-Systeme im Kontext der Volltexterschließung ([Folien](https://doi.org/10.5281/zenodo.14993342))
+- **Termin tbd**
+  - Arbeitstreffen auf der DHd am 5. März 2025 von 13 bis 14 Uhr im Raum B2 (HSBI)
 
 #### Präsenzworkshop am 27. und 28. November 2024 in Mannheim  
 **Themen**:  
