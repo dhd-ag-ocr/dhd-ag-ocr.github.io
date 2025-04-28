@@ -1,7 +1,7 @@
 ## Aktuelles
 
-### Ankündigungen
-- Online-Treffen am 28. Apirl 2025 von 14 bis 15 Uhr (Bei Interesse gerne E-Mail an: larissa.will@uni-mannheim.de)
+### Ankündigungen  
+- Online-Treffen am 28. April 2025 von 14 bis 15 Uhr (Bei Interesse gerne E-Mail an: larissa.will@uni-mannheim.de)
 ---
 
 ### Archiv
