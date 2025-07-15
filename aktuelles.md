@@ -1,12 +1,18 @@
 ## Aktuelles
 
 ### Ankündigungen  
-- Online-Treffen am 28. April 2025 von 14 bis 15 Uhr (Bei Interesse gerne E-Mail an: larissa.will@uni-mannheim.de)
+- Online-Treffen am 15. Juli 2025 von 14 bis 16 Uhr
+  **Themen**:
+  -  14:00-14:30 Uhr: Arsenije Bogdanović, "Layoutanalyse für (para-)textlastige Werkausgaben des 18. Jh.s"
+  -  14:30-15:00 Uhr: Dr. Esther-Maria Lemmerz, "One model to rule them all? Ein Werkstattbericht aus dem Projekt Volltexterkennung für R 43 Reichskanzlei"
+  -  15:00-15:30 Uhr: Jan Kamlah, "PagePlus: Erste Einblicke in die neue Benutzeroberfläche, Funktionsweise und LLM-Integration"
+  -  15:30-16:00 Uhr: Offene Diskussion & Wrap Up
 
 ---
 
 ### Archiv
 
+#### Online-Treffen am 28. April 2025 von 14 bis 15 Uhr
 
 #### Aktivitäten der OCR-AG bei DHd 2025 in Bielefeld (03.03. - 07.03.2025)
 - **Workshop am Montag, 7.03.2025, 14.30-17.30 Uhr**
