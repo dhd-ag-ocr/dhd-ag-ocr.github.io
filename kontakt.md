@@ -2,7 +2,7 @@
 
 #### [Chat – für den alltäglichen Austausch](https://gitter.im/ag-ocr/community)
 
-#### [Mailing-Liste – für Ankündigungen](https://www.listserv.dfn.de/sympa/info/jmu-ag-ocr))
+#### [Mailing-Liste – für Ankündigungen](https://www.listserv.dfn.de/sympa/subscribe/jmu-ag-ocr?previous_action=info)
 
 #### Convenorin
 **Larissa Will**  
