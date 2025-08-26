@@ -16,7 +16,7 @@
 -  14:30-15:00 Uhr: Dr. Esther-Maria Lemmerz, "One model to rule them all? Ein Werkstattbericht aus dem Projekt Volltexterkennung für R 43 Reichskanzlei"
 -  15:00-15:30 Uhr: Jan Kamlah, "PagePlus: Erste Einblicke in die neue Benutzeroberfläche, Funktionsweise und LLM-Integration"
 -  15:30-16:00 Uhr: Offene Diskussion & Wrap Up
-- 
+
 #### Online-Treffen am 28. April 2025 von 14 bis 15 Uhr
 
 #### Aktivitäten der OCR-AG bei DHd 2025 in Bielefeld (03.03. - 07.03.2025)
