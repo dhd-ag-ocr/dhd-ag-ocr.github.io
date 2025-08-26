@@ -1,17 +1,22 @@
 ## Aktuelles
 
 ### Ankündigungen  
-Online-Treffen am 15. Juli 2025 von 14 bis 16 Uhr
-**Themen**:
--  14:00-14:30 Uhr: Arsenije Bogdanović, "Layoutanalyse für (para-)textlastige Werkausgaben des 18. Jh.s"
--  14:30-15:00 Uhr: Dr. Esther-Maria Lemmerz, "One model to rule them all? Ein Werkstattbericht aus dem Projekt Volltexterkennung für R 43 Reichskanzlei"
--  15:00-15:30 Uhr: Jan Kamlah, "PagePlus: Erste Einblicke in die neue Benutzeroberfläche, Funktionsweise und LLM-Integration"
--  15:30-16:00 Uhr: Offene Diskussion & Wrap Up
+#### Präsenztreffen am 18. und 19. November 2025 in Würzburg
+- Anmeldung bis zum 15. Oktober 2025 unter: https://terminplaner6.dfn.de/b/ab2c3cec095d9d5ff2c195ece897fe1b-1354096
+- Bei Fragen gerne an Larissa Will [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de) wenden
+- Genauere Informationen zum Programm folgen noch
 
 ---
 
 ### Archiv
 
+#### Online-Workshop am 15. Juli 2025
+**Themen**:
+-  14:00-14:30 Uhr: Arsenije Bogdanović, "Layoutanalyse für (para-)textlastige Werkausgaben des 18. Jh.s"
+-  14:30-15:00 Uhr: Dr. Esther-Maria Lemmerz, "One model to rule them all? Ein Werkstattbericht aus dem Projekt Volltexterkennung für R 43 Reichskanzlei"
+-  15:00-15:30 Uhr: Jan Kamlah, "PagePlus: Erste Einblicke in die neue Benutzeroberfläche, Funktionsweise und LLM-Integration"
+-  15:30-16:00 Uhr: Offene Diskussion & Wrap Up
+- 
 #### Online-Treffen am 28. April 2025 von 14 bis 15 Uhr
 
 #### Aktivitäten der OCR-AG bei DHd 2025 in Bielefeld (03.03. - 07.03.2025)
