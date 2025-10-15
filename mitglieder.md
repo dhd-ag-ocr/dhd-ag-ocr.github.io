@@ -5,6 +5,7 @@
 - Daniel Erdmann, BBF \| Bibliothek für Bildungsgeschichtliche Forschung des DIPF, Berlin
 - Stefan von der Heide, CCS Content Conversion Specialists GmbH, Hamburg
 - Dr. Esther Lemmerz, KI-Programm, Bundesarchiv
+- Sebastian Mangold, Bayerische Staatsbibliothek, München  
 - Bernadette Mischka, Deutsches Museum Digital, München
 - Ole Meiners, Herder-Institut für historische Ostmitteleuropaforschung, Marburg
 - Prof. Dr. Achim Rabus, Slavisches Seminar, Universität Freiburg
