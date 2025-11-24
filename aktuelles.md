@@ -1,14 +1,30 @@
 ## Aktuelles
 
 ### Ankündigungen  
-#### Präsenztreffen am 18. und 19. November 2025 in Würzburg
-- Anmeldung bis zum 15. Oktober 2025 unter: https://terminplaner6.dfn.de/b/ab2c3cec095d9d5ff2c195ece897fe1b-1354096
-- Bei Fragen gerne an Larissa Will [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de) wenden
-- Genauere Informationen zum Programm folgen noch
+
 
 ---
 
 ### Archiv
+#### Präsenztreffen am 18. und 19. November 2025 in Würzburg
+**Programm**:
+18. November 2025
+- 13.30-14:00 Ankommen und Begrüßung
+- 14:00-14:30 Janne van der Loop + Nikolaus Weichselbaumer (Uni Mainz): Typographische Schriftproben als Basis für OCR-Ground Truth ([Folien](slides/2025-11-18_Loop_Weichselbaumer_Schriftproben.pdf))
+- 14:30-15:00 Arsenije Bogdanović (Uni Stuttgart): Layoutanalyse von historischen Werkausgaben des 18. Jhs. mit YOLO – Erste Einblicke ([Folien](slides/2025-11-18_Bogdanovic_Layoutanalyse.pdf))
+- 15:00-15:15 Kaffeepause
+- 15:15-15:45 Stefan von der Heide (CSS): OCR-Evaluierung von Artikelüberschriften mit (lokalen) LLMs ([Folien](slides/2024-11-28_vdHeide_OCR-Korrektur-mit-LLMs_v1.pdf))
+- 15:45-16:15 Uwe Hartwig (ULB Sachsen-Anhalt): Evaluation von OCR-Qualität unter Berücksichtigung bibliothekarischer Metadaten ([Folien](slides/2025-11-18_Hartwig_ocr-eval-bib-md.pdf))
+- 16:15-16:30 Kaffeepause
+- 16:30-17:00 Corwin Schnell (UB Tübingen): OCR post-correction und data extraction mit LLMs bei seriellen Quellen ([Folien](slides/2025-11-18_Schnell_Konsilien.pdf))
+- 17:00-17:45 Dr. Mascha Hansen (UB Greifswald):800 Jahre Pommern im OCR- Schnelldurchlauf
+- 19 Uhr Abendessen auf Selbstzahlerbasis in der Blauen Grotte
+
+19. November 2025
+- 09:30-10:00 Kaffee und Organisatorisches
+- 10:00-11:00 Dr. Christian Reul (Uni Würzburg) + Robert Sachunsky (SLUB Dresden): Updates zum Projekt "Robuste und performante Verfahren für die Layoutanalyse in OCR-D" ([Folien Sachunsky](https://hackmd.io/@bertsky/ocrd-layout-update))
+- 11:00-12:00 Kaffeepause und Führung
+- 12:00-14:00 Barcamp und Imbiss
 
 #### Online-Workshop am 15. Juli 2025
 **Themen**:
