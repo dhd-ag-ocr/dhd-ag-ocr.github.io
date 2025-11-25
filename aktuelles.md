@@ -7,7 +7,7 @@
 
 ### Archiv
 #### Präsenztreffen am 18. und 19. November 2025 in Würzburg
-**Programm**:
+**Programm**:  
 **18. November 2025**
 - 13.30-14:00 Ankommen und Begrüßung
 - 14:00-14:30 Janne van der Loop + Nikolaus Weichselbaumer (Uni Mainz): Typographische Schriftproben als Basis für OCR-Ground Truth ([Folien](slides/2025-11-18_Loop_Weichselbaumer_Schriftproben.pdf))
