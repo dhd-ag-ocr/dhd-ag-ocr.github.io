@@ -17,7 +17,7 @@
 - 15:45-16:15 Uwe Hartwig (ULB Sachsen-Anhalt): Evaluation von OCR-Qualität unter Berücksichtigung bibliothekarischer Metadaten ([Folien](slides/2025-11-18_Hartwig_ocr-eval-bib-md.pdf))
 - 16:15-16:30 Kaffeepause
 - 16:30-17:00 Corwin Schnell (UB Tübingen): OCR post-correction und data extraction mit LLMs bei seriellen Quellen ([Folien](slides/2025-11-18_Schnell_Konsilien.pdf))
-- 17:00-17:45 Dr. Mascha Hansen (UB Greifswald):800 Jahre Pommern im OCR- Schnelldurchlauf
+- 17:00-17:45 Dr. Mascha Hansen (UB Greifswald): 800 Jahre Pommern im OCR- Schnelldurchlauf ([Folien](slides/2025-11-18_Hansen_OCR-Schnelldurchlauf.pdf))
 - 19 Uhr Abendessen auf Selbstzahlerbasis in der Blauen Grotte
 
 19. November 2025
