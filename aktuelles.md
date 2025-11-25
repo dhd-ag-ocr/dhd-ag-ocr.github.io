@@ -8,7 +8,7 @@
 ### Archiv
 #### Präsenztreffen am 18. und 19. November 2025 in Würzburg
 **Programm**:
-18. November 2025
+**18. November 2025**
 - 13.30-14:00 Ankommen und Begrüßung
 - 14:00-14:30 Janne van der Loop + Nikolaus Weichselbaumer (Uni Mainz): Typographische Schriftproben als Basis für OCR-Ground Truth ([Folien](slides/2025-11-18_Loop_Weichselbaumer_Schriftproben.pdf))
 - 14:30-15:00 Arsenije Bogdanović (Uni Stuttgart): Layoutanalyse von historischen Werkausgaben des 18. Jhs. mit YOLO – Erste Einblicke ([Folien](slides/2025-11-18_Bogdanovic_Layoutanalyse.pdf))
@@ -20,7 +20,7 @@
 - 17:00-17:45 Dr. Mascha Hansen (UB Greifswald): 800 Jahre Pommern im OCR- Schnelldurchlauf ([Folien](slides/2025-11-18_Hansen_OCR-Schnelldurchlauf.pdf))
 - 19 Uhr Abendessen auf Selbstzahlerbasis in der Blauen Grotte
 
-19. November 2025
+**19. November 2025**
 - 09:30-10:00 Kaffee und Organisatorisches
 - 10:00-11:00 Dr. Christian Reul (Uni Würzburg) + Robert Sachunsky (SLUB Dresden): Updates zum Projekt "Robuste und performante Verfahren für die Layoutanalyse in OCR-D" ([Folien Sachunsky](https://hackmd.io/@bertsky/ocrd-layout-update))
 - 11:00-12:00 Kaffeepause und Führung
