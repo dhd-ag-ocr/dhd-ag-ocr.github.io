@@ -22,7 +22,7 @@
 
 **19. November 2025**
 - 09:30-10:00 Kaffee und Organisatorisches
-- 10:00-11:00 Dr. Christian Reul (Uni Würzburg) + Robert Sachunsky (SLUB Dresden): Updates zum Projekt "Robuste und performante Verfahren für die Layoutanalyse in OCR-D" ([Folien Sachunsky](https://hackmd.io/@bertsky/ocrd-layout-update))
+- 10:00-11:00 Dr. Christian Reul (Uni Würzburg) + Robert Sachunsky (SLUB Dresden): Updates zum Projekt "Robuste und performante Verfahren für die Layoutanalyse in OCR-D" ([Folien Sachunsky](https://hackmd.io/@bertsky/ocrd-layout-update)) & ([Folien Reul](slides/2025-11-19_Reul_Layout.pdf))
 - 11:00-12:00 Kaffeepause und Führung
 - 12:00-14:00 Barcamp und Imbiss
 
