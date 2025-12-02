@@ -4,6 +4,7 @@
 - Dr. Vincent Christlein, Pattern Recognition Lab / Computer Science 5, Friedrich-Alexander-Universität Erlangen-Nürnberg
 - Daniel Erdmann, BBF \| Bibliothek für Bildungsgeschichtliche Forschung des DIPF, Berlin
 - Stefan von der Heide, CCS Content Conversion Specialists GmbH, Hamburg
+- Constantin Lehenmeier, Universitätsbibliothek, Universität Regensburg
 - Dr. Esther Lemmerz, KI-Programm, Bundesarchiv
 - Sebastian Mangold, Bayerische Staatsbibliothek, München  
 - Bernadette Mischka, Deutsches Museum Digital, München
