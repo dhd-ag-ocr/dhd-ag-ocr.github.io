@@ -5,7 +5,7 @@
 #### Aktivitäten der OCR-AG und ihrer Mitglieder bei der [DHd 2026 in Wien](https://dhd2026.digitalhumanities.de/) (23.02. - 27.02.2026)
 - **Doctoral Consortium am Mittwoch, 25. Februar, ab 11:00 Uhr**
   - Constantin Lehenmeier: Von der Handschrift zum Datensatz: Computergestützte Erschließung und Aufbereitung historischer Wetterdaten
-- **Termin AG-Treffen tbd**
+- **AG-Treffen am 26.02.2026 von 9:30 bis 10:30 Uhr im Seminarraum (SR) G 3 und virtuell**
  
 
 ---
