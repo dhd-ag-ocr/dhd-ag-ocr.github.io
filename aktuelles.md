@@ -4,8 +4,10 @@
 
 #### OCR-AG auf der [114. BiblioCon 2026 in Berlin](https://2026.bibliocon.de/) (19.05. - 22.05.2026)
 - **Vorträge**
+  - Dienstag, 19. Mai, von 13 - 13:30 Uhr: [Volker Adam, Annica Falke, Uwe Hartwig & Matthias Boenig: Digitale Erschließung komplexer Schriften​ im FID Nahost-, Nordafrika- und Islamstudien](https://bibliocon2026.abstractserver.com/program/#/details/presentations/603)
   - Dienstag, 19. Mai, von 17:30 - 18 Uhr: [Constantin Lehenmeier: Von Handschriften zu FAIRen Daten: Computergestützte Erschließung historischer Wetteraufzeichnungen](https://bibliocon2026.abstractserver.com/program/#/details/presentations/570)
   - Mittwoch, 20. Mai, von 17 - 17:30 Uhr: [Corwin Schnell: Jenseits der Volltextsuche: KI-gestützte Inhaltserschließung serieller Quellen](https://bibliocon2026.abstractserver.com/program/#/details/presentations/682)
+  - Donnerstag, 21. Mai, von 17 - 17:30 Uhr: [Kay-Michael Würzner: Von der gedruckten Seite zur semantischen Datenbank: LLM-gestützte Erschließung historischer Zugangsverzeichnisse](https://bibliocon2026.abstractserver.com/program/#/details/presentations/612)
 - **Hands-On Lab**
   -  Donnerstag, 21. Mai, 16:30 - 18:30 Uhr: [Corwin Schnell, Larissa Will & Jan Kamlah: Inhaltsbasierte Metadatenerschließung 2.0: Was KI heute schon leisten kann](https://bibliocon2026.abstractserver.com/program/#/details/sessions/99)
  
