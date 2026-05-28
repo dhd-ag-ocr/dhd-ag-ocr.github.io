@@ -6,7 +6,7 @@
 
 #### Convenorin
 **Larissa Will**  
-Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanities)  
+Referentin für Wissenstransfer (OCR) und AI Literacy in den Projekten TransforMA und AiDaLi
 Universitätsbibliothek Mannheim  
 Schloss Schneckenhof West  
 D-68131 Mannheim  
