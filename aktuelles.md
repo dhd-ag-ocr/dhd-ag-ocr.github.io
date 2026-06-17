@@ -2,6 +2,22 @@
 
 ### Ankündigungen  
 
+#### Anstehende Coffe Lectures
+
+Die Coffee Lectures finden jeweils um 15:00 Uhr statt. Der [Link zur Teilnahme](https://uni-mannheim.zoom-x.de/j/62185453476?pwd=Pfo5FLctFxSzUZJBOFpbx42aUAtCmw.1) bleibt immer derselbe.
+
+- 25.06.2026 – Daniel Kinitz  
+**Deep-Learning-basierte Texterkennung arabographischer Handschriftenkataloge – Herausforderungen und Best Practices**
+- 08.07.2026 – Constantin Lehenmeier  
+**Von der Handschrift zum Datensatz: Computergestützte Erschließung und Aufbereitung historischer Wetterdaten**
+- 28.07.2026 – Clarissa Kopanitsak  
+**Auslesen handschriftlicher Matrikelkarten in ein strukturiertes Format mit KI**
+
+---
+
+### Archiv
+
+
 #### OCR-AG auf der [114. BiblioCon 2026 in Berlin](https://2026.bibliocon.de/) (19.05. - 22.05.2026)
 - **Vorträge**
   - Dienstag, 19. Mai, von 13 - 13:30 Uhr: [Volker Adam, Annica Falke, Uwe Hartwig & Matthias Boenig: Digitale Erschließung komplexer Schriften​ im FID Nahost-, Nordafrika- und Islamstudien](https://bibliocon2026.abstractserver.com/program/#/details/presentations/603)
@@ -10,11 +26,6 @@
   - Donnerstag, 21. Mai, von 17 - 17:30 Uhr: [Kay-Michael Würzner: Von der gedruckten Seite zur semantischen Datenbank: LLM-gestützte Erschließung historischer Zugangsverzeichnisse](https://bibliocon2026.abstractserver.com/program/#/details/presentations/612)
 - **Hands-On Lab**
   -  Donnerstag, 21. Mai, 16:30 - 18:30 Uhr: [Corwin Schnell, Larissa Will & Jan Kamlah: Inhaltsbasierte Metadatenerschließung 2.0: Was KI heute schon leisten kann](https://bibliocon2026.abstractserver.com/program/#/details/sessions/99)
- 
-
----
-
-### Archiv
 
 #### Aktivitäten der OCR-AG und ihrer Mitglieder bei der [DHd 2026 in Wien](https://dhd2026.digitalhumanities.de/) (23.02. - 27.02.2026)
 - **Doctoral Consortium am Mittwoch, 25. Februar, ab 11:00 Uhr**
