@@ -2,7 +2,7 @@
 
 ### Ankündigungen  
 
-#### Anstehende Coffe Lectures
+#### Anstehende Coffe Lectures ☕
 
 Die Coffee Lectures finden jeweils um 15:00 Uhr statt. Der [Link zur Teilnahme](https://uni-mannheim.zoom-x.de/j/62185453476?pwd=Pfo5FLctFxSzUZJBOFpbx42aUAtCmw.1) bleibt immer derselbe.
 
