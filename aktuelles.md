@@ -7,7 +7,7 @@
 Die Coffee Lectures finden jeweils um 15:00 Uhr statt. Der [Link zur Teilnahme](https://uni-mannheim.zoom-x.de/j/62185453476?pwd=Pfo5FLctFxSzUZJBOFpbx42aUAtCmw.1) bleibt immer derselbe.
 
 - 25.06.2026 – Daniel Kinitz  
-**Deep-Learning-basierte Texterkennung arabographischer Handschriftenkataloge – Herausforderungen und Best Practices**
+**Deep-Learning-basierte Texterkennung arabographischer Handschriftenkataloge – Herausforderungen und Best Practices** ([Folien](slides/2026-06-25-CoffeeLecture-Kinitz.pdf))
 - 08.07.2026 – Constantin Lehenmeier  
 **Von der Handschrift zum Datensatz: Computergestützte Erschließung und Aufbereitung historischer Wetterdaten**
 - 28.07.2026 – Clarissa Kopanitsak  
