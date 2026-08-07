@@ -2,21 +2,28 @@
 
 ### Ankündigungen  
 
-#### Anstehende Coffe Lectures ☕
+#### AG Treffen am  25./26. November 2026 an der UB Tübingen
+- Inhalt: Vorträge & Barcamp
+- Die [Anmeldung](https://terminplaner6.dfn.de/b/cf59aaef6b355ce350245f6b974c4a16-1863279) ist bis zum 30. September 2026 möglich.
+
+#### Anstehende Coffee Lectures ☕
 
 Die Coffee Lectures finden jeweils um 15:00 Uhr statt. Der [Link zur Teilnahme](https://uni-mannheim.zoom-x.de/j/62185453476?pwd=Pfo5FLctFxSzUZJBOFpbx42aUAtCmw.1) bleibt immer derselbe.
 
-- 25.06.2026 – Daniel Kinitz  
-**Deep-Learning-basierte Texterkennung arabographischer Handschriftenkataloge – Herausforderungen und Best Practices** ([Folien](slides/2026-06-25-CoffeeLecture-Kinitz.pdf))
-- 08.07.2026 – Constantin Lehenmeier  
-**Von der Handschrift zum Datensatz: Computergestützte Erschließung und Aufbereitung historischer Wetterdaten**
-- 28.07.2026 – Clarissa Kopanitsak  
-**Auslesen handschriftlicher Matrikelkarten in ein strukturiertes Format mit KI**
+Weitere Termine folgen. Wenn du Interesse hast, selbst eine Coffee Lexture zu halten, dann melde dich bei [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
 
 ---
 
 ### Archiv
 
+#### Vergangene Coffee Lectures
+
+- 25.06.2026 – Daniel Kinitz  
+**Deep-Learning-basierte Texterkennung arabographischer Handschriftenkataloge – Herausforderungen und Best Practices** ([Folien](slides/2026-06-25-CoffeeLecture-Kinitz.pdf))
+- 08.07.2026 – Constantin Lehenmeier  
+**Von der Handschrift zum Datensatz: Computergestützte Erschließung und Aufbereitung historischer Wetterdaten** ([Folien]
+- 28.07.2026 – Clarissa Kopanitsak  
+**Auslesen handschriftlicher Matrikelkarten in ein strukturiertes Format mit KI**
 
 #### OCR-AG auf der [114. BiblioCon 2026 in Berlin](https://2026.bibliocon.de/) (19.05. - 22.05.2026)
 - **Vorträge**
