@@ -21,7 +21,7 @@ Weitere Termine folgen. Wenn du Interesse hast, selbst eine Coffee Lexture zu ha
 - 25.06.2026 – Daniel Kinitz  
 **Deep-Learning-basierte Texterkennung arabographischer Handschriftenkataloge – Herausforderungen und Best Practices** ([Folien](slides/2026-06-25-CoffeeLecture-Kinitz.pdf))
 - 08.07.2026 – Constantin Lehenmeier  
-**Von der Handschrift zum Datensatz: Computergestützte Erschließung und Aufbereitung historischer Wetterdaten** ([Folien]
+**Von der Handschrift zum Datensatz: Computergestützte Erschließung und Aufbereitung historischer Wetterdaten** ([Folien](slides/2026-07-08-CoffeeLecture-Lehenmeier.pdf))
 - 28.07.2026 – Clarissa Kopanitsak  
 **Auslesen handschriftlicher Matrikelkarten in ein strukturiertes Format mit KI**
 
